@@ -3,5 +3,25 @@
 仅代理ip归属地api
 upos等视频cdn均不会代理
 
-使用方法:
-懒得写
+＃使用方法
+
+＃ 规则组(rule-providers）
+```
+bash
+  bilibili:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/heinu123/bilibili-clash/main/bilibili.yaml
+    path: ./rule_providers/bilibili.yaml
+    interval: 86400
+bash
+```
+
+＃ 规则(rule)
+
+proxy替换成你的代理组名称
+```
+bash
+  - RULE-SET,bilibili,proxy
+bash
+```
