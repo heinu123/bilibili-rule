@@ -3,9 +3,9 @@
 仅代理ip归属地api
 upos等视频cdn均不会代理
 
-＃使用方法
+# 使用方法
 
-＃ 规则组(rule-providers）
+# 规则组(rule-providers）
 ```
 bash
   bilibili:
@@ -17,7 +17,7 @@ bash
 bash
 ```
 
-＃ 规则(rule)
+# 规则(rule)
 
 proxy替换成你的代理组名称
 ```
