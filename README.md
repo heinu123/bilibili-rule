@@ -3,8 +3,6 @@
 仅代理ip归属地api
 upos等视频cdn均不会代理
 
-# 使用方法
-
 # 规则组(rule-providers）
 ```
   bilibili:
