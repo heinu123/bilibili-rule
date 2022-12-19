@@ -3,7 +3,7 @@ payload:
   - DOMAIN,grpc.biliapi.net
   - DOMAIN,new-service.biliapi.net
   - DOMAIN,pbjf6j9tywsc4ftn3nbqcpyud1cf8kr.ylf.bfe.biliapi.net
-  - DOMAIN,api.biliapi.net
+  - DOMAIN,dataflow.biliapi.com
   - DOMAIN,api.biliapi.net
   - DOMAIN,portal.biliapi.net
   - DOMAIN,appintl.biliapi.net
