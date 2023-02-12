@@ -1,14 +1,8 @@
 payload:
-  - DOMAIN,data.bilivideo.com
-  - DOMAIN,grpc.biliapi.net
-  - DOMAIN,new-service.biliapi.net
-  - DOMAIN,pbjf6j9tywsc4ftn3nbqcpyud1cf8kr.ylf.bfe.biliapi.net
-  - DOMAIN,dataflow.biliapi.com
   - DOMAIN,api.biliapi.net
   - DOMAIN,portal.biliapi.net
   - DOMAIN,appintl.biliapi.net
   - DOMAIN,app.biliapi.net
-  - DOMAIN,web-player-tracker.biliapi.net
   - DOMAIN,biliapns.biliapi.net
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,ksyungslb.com
@@ -16,14 +10,22 @@ payload:
   - DOMAIN-SUFFIX,kunlunhuf.com
   - DOMAIN-SUFFIX,kunlunpi.com
   - DOMAIN-SUFFIX,hdslb.net
-  - IP-CIDR,106.75.74.0/24
-  - IP-CIDR,111.206.25.0/24
-  - IP-CIDR,119.3.238.0/24
-  - IP-CIDR,120.92.108.0/24
-  - IP-CIDR,120.92.113.0/24
-  - IP-CIDR,120.92.153.0/24
-  - IP-CIDR,134.175.207.0/24
+  - DOMAIN-SUFFIX,ourdvsss.com
+  - DOMAIN,api.bilibili.tv
+  - DOMAIN,cm.bilibili.com
+  - DOMAIN-SUFFIX,im9.com
+  - DOMAIN-SUFFIX,acg.tv
+  - DOMAIN-SUFFIX,biligame.com
+  - IP-CIDR,103.151.150.0/23
+  - IP-CIDR,164.52.0.0/16
+  - IP-CIDR,106.75.74.76/32
+  - IP-CIDR,111.206.25.147/32
+  - IP-CIDR,119.3.238.64/32
+  - IP-CIDR,120.92.108.182/32
+  - IP-CIDR,120.92.113.99/32
+  - IP-CIDR,120.92.153.217/32
+  - IP-CIDR,134.175.207.130/32
   - IP-CIDR,203.107.1.0/24
-  - IP-CIDR,14.17.92.0/24
+  - IP-CIDR,101.91.140.0/24
   - IP-CIDR,59.36.228.0/24
-  - IP-CIDR,103.151.151.0/24
+  - IP-CIDR,110.43.49.0/24
