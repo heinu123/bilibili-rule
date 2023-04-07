@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -76,11 +77,6 @@ payload:
   - DOMAIN-SUFFIX,bilibiligame.net
   - DOMAIN-SUFFIX,bilibilipay.cn
   - DOMAIN-SUFFIX,bilibilipay.com
-  - DOMAIN-SUFFIX,bilicdn1.com
-  - DOMAIN-SUFFIX,bilicdn2.com
-  - DOMAIN-SUFFIX,bilicdn3.com
-  - DOMAIN-SUFFIX,bilicdn4.com
-  - DOMAIN-SUFFIX,bilicdn5.com
   - DOMAIN-SUFFIX,biligame.cn
   - DOMAIN-SUFFIX,biligame.co
   - DOMAIN-SUFFIX,biligame.com
@@ -89,9 +85,6 @@ payload:
   - DOMAIN-SUFFIX,biliimg.com
   - DOMAIN-SUFFIX,biliintl.com
   - DOMAIN-SUFFIX,biliplus.com
-  - DOMAIN-SUFFIX,bilivideo.cn
-  - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-SUFFIX,bilivideo.net
   - DOMAIN-SUFFIX,corari.com
   - DOMAIN-SUFFIX,dreamcast.hk
   - DOMAIN-SUFFIX,dyhgames.com
