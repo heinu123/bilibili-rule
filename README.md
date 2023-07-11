@@ -1,6 +1,6 @@
-# 哔哩哔哩分流规则
+# 哔哩哔哩IP归属地分流规则
 
-仅代理ip归属地api
+仅代理ip归属地
 upos等视频cdn均不会代理
 
 # 规则组(rule-providers）
