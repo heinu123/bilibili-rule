@@ -1,24 +1,15 @@
+
 payload:
-  - DOMAIN,112-81-125-43.dhost.00cdn.com
-  - DOMAIN,113-219-145-1.ksyungslb.com
-  - DOMAIN,114-236-92-129.ksyungslb.com
-  - DOMAIN,180-101-74-1.ksyungslb.com
-  - DOMAIN,218-91-225-1.ksyungslb.com
-  - DOMAIN,219-155-150-1.ksyungslb.com
-  - DOMAIN,222-188-6-1.ksyungslb.com
-  - DOMAIN,36-104-134-1.ksyungslb.com
-  - DOMAIN,36-25-252-1.ksyungslb.com
-  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN,api.bilibili.tv
+  - DOMAIN,app.bilibili.com
+  - DOMAIN,passport.bilibili.com
+  - DOMAIN,live-trace.bilibili.com
+  - DOMAIN,message.bilibili.com
+  - DOMAIN,cm.bilibili.com
   - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,bilibili.net
-  - DOMAIN-SUFFIX,bilibili.tv
-  - DOMAIN-SUFFIX,bilibiligame.net
-  - DOMAIN-SUFFIX,biligame.net
-  - DOMAIN-SUFFIX,hdslb.com
-  - DOMAIN-SUFFIX,hdslb.com.w.kunlunhuf.com
-  - DOMAIN-SUFFIX,hdslb.com.w.kunlunpi.com
-  - DOMAIN-SUFFIX,hdslb.net
-  - DOMAIN-SUFFIX,hdslb.org
+  - DOMAIN-SUFFIX,im9.com
+  - DOMAIN-SUFFIX,acg.tv
+  - DOMAIN-SUFFIX,biligame.com
   - IP-CIDR,106.75.74.76/32
   - IP-CIDR,111.206.25.147/32
   - IP-CIDR,119.3.238.64/32
