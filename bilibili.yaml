@@ -1,13 +1,10 @@
-
 payload:
   - DOMAIN,api.bilibili.tv
   - DOMAIN,app.bilibili.com
   - DOMAIN,passport.bilibili.com
-  - DOMAIN,live-trace.bilibili.com
   - DOMAIN,message.bilibili.com
+  - DOMAIN,api.bilibili.com
   - DOMAIN,cm.bilibili.com
-  - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,im9.com
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,biligame.com
   - IP-CIDR,106.75.74.76/32
