@@ -1,6 +1,7 @@
 payload:
   - DOMAIN,api.bilibili.tv
   - DOMAIN,app.bilibili.com
+  - DOMAIN,data.bilibili.com
   - DOMAIN,dataflow.biliapi.com
   - DOMAIN,passport.bilibili.com
   - DOMAIN,message.bilibili.com
