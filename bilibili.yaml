@@ -1,14 +1,6 @@
 payload:
   - DOMAIN,api.bilibili.tv
-  - DOMAIN,app.bilibili.com
-  - DOMAIN,passport.bilibili.com
-  - DOMAIN,grpc.biliapi.net
-  - DOMAIN,broadcast.chat.bilibili.com
   - DOMAIN,api.bilibili.com
-  - DOMAIN,cm.bilibili.com
-  - DOMAIN-SUFFIX,acg.tv
-  - DOMAIN-SUFFIX,biliapi.com
-  - DOMAIN-SUFFIX,biligame.com
   - IP-CIDR,106.75.74.76/32
   - IP-CIDR,111.206.25.147/32
   - IP-CIDR,119.3.238.64/32
@@ -16,4 +8,3 @@ payload:
   - IP-CIDR,120.92.113.99/32
   - IP-CIDR,120.92.153.217/32
   - IP-CIDR,134.175.207.130/32
-  - IP-CIDR,203.107.1.0/24
