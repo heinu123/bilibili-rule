@@ -1,8 +1,8 @@
-  - DOMAIN,api.bilibili.tv
-  - DOMAIN,api.biliapi.net
-  - DOMAIN,api.bilibili.com
+payload:
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN,httpdns.bilivideo.com
-  - DOMAIN,bimp.hdslb.com
   - IP-CIDR,106.75.74.76/32
   - IP-CIDR,111.206.25.147/32
   - IP-CIDR,119.3.238.64/32
