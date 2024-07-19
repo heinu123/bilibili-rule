@@ -1,7 +1,4 @@
-# 哔哩哔哩IP归属地分流规则
-
-仅代理ip归属地
-upos等视频cdn均不会代理
+# 哔哩哔哩clash规则
 
 # ip归属地
 ```
@@ -12,6 +9,7 @@ upos等视频cdn均不会代理
     path: ./rule_providers/bilibili.yaml
     interval: 86400
 ```
+> upos等视频cdn均不会代理
 
 # pcdn
 ```
