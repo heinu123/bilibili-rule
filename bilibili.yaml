@@ -1,7 +1,13 @@
 payload:
   - DOMAIN,api.biliapi.net
   - DOMAIN,api.biliapi.com
+  - DOMAIN,api.vc.bilibili.com
   - DOMAIN,api.bilibili.com
+  - DOMAIN,app.bilibili.com
+  - DOMAIN,data.bilibili.com
+  - DOMAIN,mall.bilibili.com
+  - DOMAIN,message.bilibili.com
+  - DOMAIN,passport.bilibili.com
   - DOMAIN,httpdns.bilivideo.com
   - IP-CIDR,106.75.74.76/32
   - IP-CIDR,111.206.25.147/32
