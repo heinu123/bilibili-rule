@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,api.biliapi.net
+  - DOMAIN,grpc.biliapi.net
   - DOMAIN,api.biliapi.com
   - DOMAIN,api.vc.bilibili.com
   - DOMAIN,api.bilibili.com
