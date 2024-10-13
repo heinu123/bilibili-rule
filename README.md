@@ -1,4 +1,4 @@
-# 哔哩哔哩clash规则
+# 哔哩哔哩规则
 
 # ip归属地
 ```
@@ -9,7 +9,6 @@
     path: ./rule_providers/bilibili.yaml
     interval: 86400
 ```
-> upos等视频cdn均不会代理
 
 # pcdn
 ```
